@@ -1,1 +1,2 @@
-"Scundario" 
+"Secundario" 
+Esto es una forma de hacer las cosas
